@@ -1,4 +1,4 @@
-package com.example.racinggame1;
+package com.example.models;
 
 
 public class Player {

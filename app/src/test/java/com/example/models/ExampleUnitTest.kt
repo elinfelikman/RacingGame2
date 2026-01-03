@@ -1,4 +1,4 @@
-package com.example.racinggame1
+package com.example.models
 
 import org.junit.Test
 
